@@ -12,10 +12,13 @@
   gap: 1rem;
 }
 
-.button {
+.input {
   appearance: none;
-  background-color: rgb(152, 235, 235);
-  font-weight: 600;
   padding: 1rem;
-  border-radius: 20px;
+  border-radius: 1rem;
+}
+
+.text {
+  font-size: 20rem;
+  font-weight: 600;
 }
